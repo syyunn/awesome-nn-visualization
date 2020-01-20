@@ -9,3 +9,4 @@ Visualizing structure and transitions for biological data exploration https://ww
 # Codes 
 
 https://github.com/KrishnaswamyLab/PHATE
+https://nbviewer.jupyter.org/github/KrishnaswamyLab/PHATE/blob/master/Python/tutorial/EmbryoidBody.ipynb
