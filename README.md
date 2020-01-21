@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=W509HyZioQU
 
 # Researcher 
 Dongyu Liu 刘冬煜 http://dongyu.tech/
+
+# Research Group
+HKUST VisLab http://vis.cse.ust.hk/groups/xai-vis/
