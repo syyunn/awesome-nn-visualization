@@ -1,5 +1,7 @@
 # Papers
 
+DeepTracker: Visualizing the Training Process of Convolutional Neural Networks http://dongyu.name/recourse/papers/tist_2018_dongyu_deeptracker.pdf
+
 Visualizing the PHATE of Neural Networks https://arxiv.org/abs/1908.02831
 
 Visualizing the Loss Landscape of Neural Nets https://arxiv.org/abs/1712.09913
