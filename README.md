@@ -15,3 +15,6 @@ https://nbviewer.jupyter.org/github/KrishnaswamyLab/PHATE/blob/master/Python/tut
 # YouTube
 https://www.youtube.com/channel/UClw-8PLrtpLHgB0w1V3y__w
 https://www.youtube.com/watch?v=W509HyZioQU
+
+# Researcher 
+Dongyu Liu 刘冬煜 http://dongyu.tech/
